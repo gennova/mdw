@@ -1,0 +1,1 @@
+xcopy *.* C:\xampp\htdocs\mdw-ready\ /E
